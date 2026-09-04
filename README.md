@@ -132,7 +132,7 @@ It brings together important metrics across multiple departments to support stra
 
 **Skills:** Power BI • SQL • Excel • Data Analysis • Business Intelligence
 
-# 📷 Dashboard Preview
+#  Dashboard Preview
 
 ##  Home View
 
