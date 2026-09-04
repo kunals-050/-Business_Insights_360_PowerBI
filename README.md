@@ -132,7 +132,41 @@ It brings together important metrics across multiple departments to support stra
 
 #  Author
 
-**Kunal**
+# 📷 Dashboard Preview
+
+##  Home View
+
+![Home View](HomeView.png)
+
+---
+
+##  Finance View
+
+![Finance View](FinanceView.png)
+
+---
+
+##  Sales View
+
+![Sales View](SalesView.png)
+
+---
+
+##  Marketing View
+
+![Marketing View](MarketingView.png)
+
+---
+
+##  Supply Chain View
+
+![Supply Chain View](SupplyChainView.png)
+
+---
+
+##  Executive View
+
+![Executive View](ExecutiveView.png)
 
 Aspiring Data Analyst | Business Intelligence Enthusiast
 
