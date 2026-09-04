@@ -130,7 +130,7 @@ It brings together important metrics across multiple departments to support stra
 
 ---
 
-#  Author
+**Skills:** Power BI • SQL • Excel • Data Analysis • Business Intelligence
 
 # 📷 Dashboard Preview
 
@@ -168,6 +168,4 @@ It brings together important metrics across multiple departments to support stra
 
 ![Executive View](ExecutiveView.png)
 
-Aspiring Data Analyst | Business Intelligence Enthusiast
 
-**Skills:** Power BI • SQL • Excel • Data Analysis • Business Intelligence
