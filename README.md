@@ -1,6 +1,6 @@
 # AtliQ Hardware | Business Insights 360
 
-## 📊 Project Overview
+##  Project Overview
 
 Business Insights 360 is an end-to-end Business Intelligence project developed using Power BI for AtliQ Hardware, a consumer electronics company operating across multiple markets and sales channels.
 
@@ -16,7 +16,7 @@ The solution covers five major business functions:
 
 ---
 
-## 🏢 Business Context
+##  Business Context
 
 AtliQ Hardware sells consumer electronic products through multiple sales channels:
 
@@ -30,7 +30,7 @@ This project brings important business metrics and insights together through a u
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 * Build a centralized Business Intelligence solution.
 * Analyze financial performance and Profit & Loss trends.
@@ -41,9 +41,9 @@ This project brings important business metrics and insights together through a u
 
 ---
 
-# 📈 Dashboard Views
+#  Dashboard Views
 
-## 💰 Finance View
+##  Finance View
 
 The Finance dashboard provides insights into financial performance and profitability.
 
@@ -57,7 +57,7 @@ Key areas include:
 
 ---
 
-## 📊 Sales View
+##  Sales View
 
 The Sales dashboard helps analyze sales performance across different business dimensions.
 
@@ -71,7 +71,7 @@ Key areas include:
 
 ---
 
-## 📣 Marketing View
+##  Marketing View
 
 The Marketing dashboard focuses on market and product performance.
 
@@ -84,7 +84,7 @@ Key areas include:
 
 ---
 
-## 🚚 Supply Chain View
+##  Supply Chain View
 
 The Supply Chain dashboard helps monitor operational and supply chain performance.
 
@@ -97,7 +97,7 @@ Key areas include:
 
 ---
 
-## 👔 Executive View
+##  Executive View
 
 The Executive dashboard provides senior management with a consolidated overview of business performance.
 
@@ -105,7 +105,7 @@ It brings together important metrics across multiple departments to support stra
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 * Power BI
 * Power Query
@@ -116,7 +116,7 @@ It brings together important metrics across multiple departments to support stra
 
 ---
 
-# 💡 Skills Demonstrated
+#  Skills Demonstrated
 
 * Data Cleaning & Transformation
 * Data Modeling
@@ -130,7 +130,7 @@ It brings together important metrics across multiple departments to support stra
 
 ---
 
-# 👤 Author
+#  Author
 
 **Kunal**
 
