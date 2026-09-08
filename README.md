@@ -1,5 +1,11 @@
 # AtliQ Hardware - Business Insights 360
 
+## Live Interactive Dashboard
+
+**[Click here to explore the live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTMxMzRiNGUtNzQxMy00MzI3LWEzMjctMGVhYWJlYTdiNTU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+
+> The dashboard is fully interactive. Use the navigation buttons, filters, slicers, and toggles to explore different business views.
+
 ## Overview
 
 Business Insights 360 is an end-to-end Power BI analytics project built for AtliQ Hardware, a consumer electronics company operating across multiple markets and sales channels.
